@@ -30,6 +30,29 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+# Use Twitter Bootstrap library for UI and layout
+gem 'bootstrap-sass'
+
+# Font Awesome for great looking font icons
+gem 'font-awesome-sass'
+
+
+# Use HAML because nobody really likes HTML
+gem 'haml'
+
+# HTML2HAML
+gem 'html2haml'
+
+# Better errors and dependencies
+gem 'better_errors'
+gem 'binding_of_caller'
+gem 'meta_request'
+
+# Rspec
+gem 'rspec-rails', '~> 3.5'
+
+
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
