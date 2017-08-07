@@ -51,6 +51,7 @@ gem 'meta_request'
 # Rspec
 gem 'rspec-rails', '~> 3.5'
 
+gem 'browser'
 
 
 # Use Capistrano for deployment
